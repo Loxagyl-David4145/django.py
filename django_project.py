@@ -1,1 +1,2 @@
-print("It's not as easy as people say it is!")
+
+print("Like a steamroller we don't stop until we get to the higher echelons of society!")
